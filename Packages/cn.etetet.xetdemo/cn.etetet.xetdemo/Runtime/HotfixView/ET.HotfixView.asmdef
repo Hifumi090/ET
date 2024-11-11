@@ -1,0 +1,33 @@
+{
+    "name": "ET.HotfixView",
+    "rootNamespace": "ET",
+    "references": [
+        "ET.Core",
+        "ET.Hotfix",
+        "ET.Loader",
+        "ET.MemoryPack",
+        "ET.Model",
+        "ET.ModelView",
+        "ET.ReferenceCollector",
+        "ET.SourceGeneratorAttribute",
+        "ET.YooAssets",
+        "Unity.Mathematics",
+        "XET.FUI"
+    ],
+    "includePlatforms": [
+        "Editor"
+    ],
+    "excludePlatforms": [],
+    "allowUnsafeCode": true,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [
+        "INITED"
+    ],
+    "versionDefines": [],
+    "noEngineReferences": false,
+    "optionalUnityReferences": [],
+    "additionalReferences": [],
+    "compilerOptions": ""
+}
